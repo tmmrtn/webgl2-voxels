@@ -34,7 +34,7 @@ class World {
       visible: false,
       renderable: Cube.create(gl)
     };
-    this.ad.renderable.scale.set(0.75, 0.75, 0.75);
+    this.ad.renderable.scale.set(0.75, 0.75, 0.76);
   }
 
   update() {
